@@ -14,6 +14,6 @@ int main(){
         i++;
     }
     Percentage=(TotalMarks*100)/(Subject*MaxMark);
-    cout<<"Your Percentage is: "<<Percentage<<endl;
+    cout<<"Your Percentage is: "<<Percentage<<"%"<<endl;
     return 0;
 }
