@@ -29,6 +29,6 @@ Subject4 Marks: 44
 Subject5 Marks: 44
 
 #### 4. Output
-Your Percentage is:77.2
+Your Percentage is:77.2%
 
  # Author - Siddhartha Ghosh
