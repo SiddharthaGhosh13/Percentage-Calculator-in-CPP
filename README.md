@@ -11,6 +11,11 @@ It allows Students to Calculate their SGPA Based On Subject Credits and Grades.
 - Calculates Percentage with Precision
 - Easy to Modify and Extend
 
+## Concepts Used
+- Variables
+- Loops (While)
+- Percentage Calculation Formula
+
 ## How to Run
 
 ### 1. Compile
