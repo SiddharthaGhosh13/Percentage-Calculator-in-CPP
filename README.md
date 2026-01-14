@@ -26,15 +26,15 @@ It allows students to calculate their SGPA based on subject credits and grades.
 ./Percenatage_Calculator
 
 ### 3. Example
-Enter Your no. Of Subjects:5
-Enter Maximum Marks:50
-Subject1 Marks: 25
-Subject2 Marks: 35
-Subject3 Marks: 45
-Subject4 Marks: 44
-Subject5 Marks: 44
+Enter number of subjects: 5
+Enter maximum marks: 50
+Subject 1 marks: 25
+Subject 2 marks: 35
+Subject 3 marks: 45
+Subject 4 marks: 44
+Subject 5 marks: 44
 
 #### 4. Output
-Your Percentage is:77.2%
+Your percentage is: 77.2%
 
  # Author - Siddhartha Ghosh
