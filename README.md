@@ -4,7 +4,7 @@
 Percentage Calculator in C++
 
 This is a simple **Percentage Calculator** built in C++.  
-It allows students to calculate their SGPA based on subject credits and grades.
+It allows students to calculate their **Percentage** based on number of subjects and maximun marks.
 
 ## Features
 - User-friendly command-line interface
